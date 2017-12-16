@@ -1,0 +1,85 @@
+Citation: Originator
+Citation: Publication Date
+Citation: Title
+Citation: Edition
+Citation: Geospatial Data Presentation Form
+Citation: Publication Information
+Abstract
+Purpose
+Time Period of Content
+Status
+Bounding Coordinate: West Bounding Coordinate
+Bounding Coordinate: East Bounding Coordinate
+Bounding Coordinate: North Bounding Coordinate
+Bounding Coordinate: South Bounding Coordinate
+Keywords
+Theme Keywords
+Access Constraints
+Use Constraints
+Contact: Organization
+Contact: Person
+Contact: Physical Address
+Contact: Voice Telephone
+Contact: Email Address
+Browse Graphic File Name
+Native Data Set Environment
+Cross Reference
+Attribute Accuracy Report
+Logical Consistency Report
+Completeness Report
+Horizontal Positional Accuracy Report
+Vertical Positional Accuracy Reports
+Lineage: Originator
+Lineage: Publication Date
+Lineage: Title
+Lineage: Edition
+Lineage: Geospatial Data Presentation Form
+Lineage: Publication Information
+Lineage: Time Period of Content
+Lineage: Contribution
+Lineage: Process Description
+Lineage: Process Date
+Lineage Process Contact: Organization
+Lineage Process Contact: Person
+Lineage Process Contact: Physical Address
+Lineage Process Contact: Voice Telephone
+Lineage Process Contact: Email Address
+Indirect Spatial Reference Method
+Direct Spatial Reference Method
+Point & Vector Object Type
+Point & Vector Object Count
+Horizontal coordinate system definition: Latitude Resolution
+Horizontal coordinate system definition: Longitude Resolution
+Horizontal coordinate system definition: Coordinate units
+Horizontal coordinate system definition: Horizontal Datum Name 
+Horizontal coordinate system definition: Ellipsoid  Name
+Horizontal coordinate system definition: Semi major Axis
+Horizontal coordinate system definition: Denominator of Flattening Ratio
+Vertical coordinate system definition: Altitude Datum Name
+Vertical coordinate system definition: Altitude Resolution
+Vertical coordinate system definition: Altitude Distance units
+Vertical coordinate system definition: Altitude Encoding Method
+Entity & Attribute Overview
+Entity Type Label 
+Entity Type Definition
+Entity Type Definition Source
+Attribute Type Label 
+Attribute Type Definition
+Attribute Type Definition Source
+Distributor Contact: Organization
+Distributor Contact: Person
+Distributor Contact: Physical Address
+Distributor Contact: Voice Telephone
+Distributor Contact: Email Address
+Resource Description
+Distribution Liability
+Custom Order Process
+Metadata Date
+Metadata Review Date
+Metadata Contact: Organization
+Metadata Contact: Person
+Metadata Contact: Physical Address
+Metadata Contact: Voice Telephone
+Metadata Contact: Email Address
+Metadata Standard Name
+Metadata Standard Version
